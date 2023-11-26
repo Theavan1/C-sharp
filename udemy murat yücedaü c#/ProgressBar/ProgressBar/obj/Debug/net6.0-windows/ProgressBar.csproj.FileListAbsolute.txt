@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\refint\ProgressBar.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ref\ProgressBar.dll

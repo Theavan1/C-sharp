@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\bin\Debug\net6.0-windows\Degiskenler_integer.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\bin\Debug\net6.0-windows\Degiskenler_integer.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\bin\Debug\net6.0-windows\Degiskenler_integer.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\bin\Debug\net6.0-windows\Degiskenler_integer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\bin\Debug\net6.0-windows\Degiskenler_integer.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\refint\Degiskenler_integer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\Degiskenler_integer.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degiskenler_integer\obj\Debug\net6.0-windows\ref\Degiskenler_integer.dll

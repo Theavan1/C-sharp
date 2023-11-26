@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\bin\Debug\net6.0-windows\ProgresBarr_Timer.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\bin\Debug\net6.0-windows\ProgresBarr_Timer.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\bin\Debug\net6.0-windows\ProgresBarr_Timer.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\bin\Debug\net6.0-windows\ProgresBarr_Timer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\bin\Debug\net6.0-windows\ProgresBarr_Timer.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\refint\ProgresBarr_Timer.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ProgresBarr_Timer.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\ProgresBarr_Timer\ProgresBarr_Timer\obj\Debug\net6.0-windows\ref\ProgresBarr_Timer.dll

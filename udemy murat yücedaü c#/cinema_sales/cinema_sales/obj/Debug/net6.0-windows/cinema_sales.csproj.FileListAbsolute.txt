@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\bin\Debug\net6.0-windows\cinema_sales.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\bin\Debug\net6.0-windows\cinema_sales.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\bin\Debug\net6.0-windows\cinema_sales.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\bin\Debug\net6.0-windows\cinema_sales.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\bin\Debug\net6.0-windows\cinema_sales.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\refint\cinema_sales.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\cinema_sales.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\cinema_sales\cinema_sales\obj\Debug\net6.0-windows\ref\cinema_sales.dll

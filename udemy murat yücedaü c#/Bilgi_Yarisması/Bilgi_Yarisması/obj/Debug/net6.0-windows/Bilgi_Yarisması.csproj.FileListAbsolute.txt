@@ -1,0 +1,17 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\net6.0-windows\Bilgi_Yarisması.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\net6.0-windows\Bilgi_Yarisması.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\net6.0-windows\Bilgi_Yarisması.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\net6.0-windows\Bilgi_Yarisması.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\net6.0-windows\Bilgi_Yarisması.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\refint\Bilgi_Yarisması.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\ref\Bilgi_Yarisması.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\net6.0-windows\Bilgi_Yarisması.Properties.Resources.resources

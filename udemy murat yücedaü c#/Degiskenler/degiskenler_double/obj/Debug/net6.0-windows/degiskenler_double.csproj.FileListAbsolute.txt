@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\bin\Debug\net6.0-windows\degiskenler_double.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\bin\Debug\net6.0-windows\degiskenler_double.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\bin\Debug\net6.0-windows\degiskenler_double.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\bin\Debug\net6.0-windows\degiskenler_double.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\bin\Debug\net6.0-windows\degiskenler_double.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\refint\degiskenler_double.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\degiskenler_double.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\degiskenler_double\obj\Debug\net6.0-windows\ref\degiskenler_double.dll

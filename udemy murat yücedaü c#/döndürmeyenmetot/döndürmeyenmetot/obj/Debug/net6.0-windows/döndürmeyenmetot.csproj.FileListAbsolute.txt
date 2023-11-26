@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\bin\Debug\net6.0-windows\döndürmeyenmetot.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\bin\Debug\net6.0-windows\döndürmeyenmetot.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\bin\Debug\net6.0-windows\döndürmeyenmetot.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\bin\Debug\net6.0-windows\döndürmeyenmetot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\bin\Debug\net6.0-windows\döndürmeyenmetot.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\refint\döndürmeyenmetot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\döndürmeyenmetot.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\döndürmeyenmetot\obj\Debug\net6.0-windows\ref\döndürmeyenmetot.dll

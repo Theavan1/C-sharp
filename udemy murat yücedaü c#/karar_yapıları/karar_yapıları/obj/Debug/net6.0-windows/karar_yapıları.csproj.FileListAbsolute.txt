@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\bin\Debug\net6.0-windows\karar_yapıları.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\bin\Debug\net6.0-windows\karar_yapıları.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\bin\Debug\net6.0-windows\karar_yapıları.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\bin\Debug\net6.0-windows\karar_yapıları.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\bin\Debug\net6.0-windows\karar_yapıları.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\refint\karar_yapıları.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\karar_yapıları.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\karar_yapıları\karar_yapıları\obj\Debug\net6.0-windows\ref\karar_yapıları.dll

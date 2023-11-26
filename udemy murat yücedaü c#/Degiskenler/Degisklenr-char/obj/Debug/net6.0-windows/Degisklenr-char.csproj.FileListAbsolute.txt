@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\bin\Debug\net6.0-windows\Degisklenr-char.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\bin\Debug\net6.0-windows\Degisklenr-char.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\bin\Debug\net6.0-windows\Degisklenr-char.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\bin\Debug\net6.0-windows\Degisklenr-char.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\bin\Debug\net6.0-windows\Degisklenr-char.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr_char.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\refint\Degisklenr-char.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\Degisklenr-char.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Degiskenler\Degisklenr-char\obj\Debug\net6.0-windows\ref\Degisklenr-char.dll

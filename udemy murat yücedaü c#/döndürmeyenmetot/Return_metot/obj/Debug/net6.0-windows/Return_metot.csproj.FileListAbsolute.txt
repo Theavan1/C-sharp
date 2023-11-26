@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\bin\Debug\net6.0-windows\Return_metot.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\bin\Debug\net6.0-windows\Return_metot.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\bin\Debug\net6.0-windows\Return_metot.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\bin\Debug\net6.0-windows\Return_metot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\bin\Debug\net6.0-windows\Return_metot.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\refint\Return_metot.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\Return_metot.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\döndürmeyenmetot\Return_metot\obj\Debug\net6.0-windows\ref\Return_metot.dll

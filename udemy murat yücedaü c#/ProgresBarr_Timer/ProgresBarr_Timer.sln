@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgresBarr_Timer", "ProgresBarr_Timer\ProgresBarr_Timer.csproj", "{B18FF8EE-575D-4C68-B1E5-05C6EF390CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18FF8EE-575D-4C68-B1E5-05C6EF390CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18FF8EE-575D-4C68-B1E5-05C6EF390CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18FF8EE-575D-4C68-B1E5-05C6EF390CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18FF8EE-575D-4C68-B1E5-05C6EF390CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50039D29-727A-4D19-AEDC-EBC0E33A7EDA}
+	EndGlobalSection
+EndGlobal

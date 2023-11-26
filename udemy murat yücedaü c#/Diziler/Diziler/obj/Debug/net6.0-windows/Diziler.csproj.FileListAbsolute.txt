@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\refint\Diziler.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Diziler\Diziler\obj\Debug\net6.0-windows\ref\Diziler.dll

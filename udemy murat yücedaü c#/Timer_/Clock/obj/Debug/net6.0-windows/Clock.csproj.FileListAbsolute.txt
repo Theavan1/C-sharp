@@ -1,0 +1,16 @@
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\bin\Debug\net6.0-windows\Clock.exe
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\bin\Debug\net6.0-windows\Clock.deps.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\bin\Debug\net6.0-windows\Clock.runtimeconfig.json
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\bin\Debug\net6.0-windows\Clock.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\bin\Debug\net6.0-windows\Clock.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.Form1.resources
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.csproj.GenerateResource.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfoInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfo.cs
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\refint\Clock.dll
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.pdb
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\Clock.genruntimeconfig.cache
+C:\Users\İzzettin Avan\Desktop\udemy murat yücedaü c#\Timer_\Clock\obj\Debug\net6.0-windows\ref\Clock.dll
